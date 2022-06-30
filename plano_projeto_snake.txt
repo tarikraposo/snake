@@ -1,0 +1,21 @@
+1 - importar bibliotecas necessárias.
+	. Graficos
+	. Util
+	. Teclado
+2 - criar função montar_janela()
+3 - criar looping game.
+4 - criar função pintar_janela()
+5 - criar função desenhar_painel()
+6 - criar funcao desenhar_cabeca_cobra()
+7 - criar função direcionar_cobra()
+8 - criar função mover_cobra()
+9 - criar função cobra_bateu_parede ()
+10 - criar função reiniciar()
+11 - cobra_comeu_comida()
+12 - sortear_posicao_comida()
+13 - desenhar_comida()
+14 - atualizar_posicoes_cobra
+15 - desenhar_cauda_cobra()
+16 - atualizar_pontuacao
+17 - cobra_se_mordeu()
+18 - comida_embaixo_cobra()
